@@ -1,0 +1,5 @@
+a=input("enter values to be added in a set")
+b=set(a)
+print(b)
+c=len(b)
+print(c)

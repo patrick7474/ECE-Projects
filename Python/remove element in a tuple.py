@@ -1,0 +1,6 @@
+a=input("enter a string")
+c=list(a)
+print(c)
+b=input("enter value to be removed")
+c.remove(b)
+print(c)
